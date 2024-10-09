@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![ccna(1)](https://github.com/user-attachments/assets/2a2cbcb4-adb0-4aa6-a648-25aa18fe3e7b)
-
+<img src="https://github.com/user-attachments/assets/25813449-19b9-4a55-87b9-f11ee0016457" alt="Description of Image" width="200" height="200">
 
 <!--
 **akademsubotnik/akademsubotnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
