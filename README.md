@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <img src="https://github.com/user-attachments/assets/25813449-19b9-4a55-87b9-f11ee0016457" alt="Description of Image" width="200" height="200">
 
 <!--
